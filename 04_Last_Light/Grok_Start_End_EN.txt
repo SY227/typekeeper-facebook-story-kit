@@ -1,0 +1,22 @@
+SILENT VISUAL STORY • 10 seconds • vertical 9:16
+
+Animate the supplied Typekeeper heroine as a hand-painted 2D chibi. Keep her large amber-brown eyes, round face, high dark bun, coral bow, robe design and proportions. Let her act through her gaze, brows, shoulders and hands. All mouths stay softly closed. Picture only, with no dialogue, captions, logos, game interface or end card. Keep her peach night-scene robe, jade sash, warm brown eyes, dark bun and coral ribbon.
+
+FRAME INPUT
+Use F01_Open.png for the opening and F08_Payoff.png for the ending. Move naturally through the intervening beats.
+
+STAGING
+Moonlit blue palace window; distant lantern warm at the left. One overturned, clear, handleless glass cup rests rim-down on the dark wood desk. Exactly one golden firefly blinks inside. The heroine leans in, her near hand on screen left almost touching the glass foot. Her free hand and the cup rim are easy to see.
+
+TIMED ACTION • arrive at each state by the stated time
+F01 · 0.0s | The speck inside the cup blinks on. A little pool of gold flashes across the wood and catches in her eyes.
+F02 · 1.0s | The light goes dim. She lowers her eyes and spots the two tiny wings inside the glass.
+F03 · 2.2s | Her near fingers pinch the foot securely. She tilts the cup just enough to open an escape gap along one edge.
+F04 · 3.8s | The one firefly walks to the opening, then flies cleanly OUT through the gap. Her hand holds the cup steady until it clears.
+F05 · 5.1s | She turns the empty cup upright and sets its base back on the desk, clear of the insect’s path. Her gaze follows the light as it climbs.
+F06 · 6.3s | The firefly turns back in one small arc. Her eyes track it from the window toward her face.
+F07 · 7.7s | It lands on the tip of her nose. She stops perfectly still and gently crosses her eyes to find it.
+F08 · 10.0s | One warm blink from the tiny passenger. It lights both cheeks; she smiles with her lips together. The empty upright cup stays visible below.
+
+CONTACT & CONTINUITY
+The glow belongs to one insect. Dim it between pulses while retaining the insect’s body. The glass stays solid; the insect exits beneath the lifted rim. Nose contact ends its flight. Keep highlights on the glass tied to the real light. Keep the image clean. Preserve screen direction, the original number of people and objects, their weight and a continuous grip. Animate on frame one. Let the final expression breathe before the cut.
